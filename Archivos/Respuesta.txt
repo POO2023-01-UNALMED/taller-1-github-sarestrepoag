@@ -1,0 +1,1 @@
+Git no incluyó la carpeta vacía Archivos en el commit
