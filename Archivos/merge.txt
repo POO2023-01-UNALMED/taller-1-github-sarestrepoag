@@ -1,0 +1,1 @@
+En el paso nueve fue exitoso el commit de la carpeta Archivos porque esta ya no se encontraba vacía (contenía el archivo respuesta.txt). El problema del paso ocho ocurrío porque Git no deja subir carpetas vacías a GitHub.
