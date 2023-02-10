@@ -1,1 +1,6 @@
+En el paso nueve fue exitoso el commit de la carpeta Archivos porque esta ya no se encontraba vacía (contenía el archivo respuesta.txt). El problema del paso ocho ocurrío porque Git no deja subir carpetas vacías a GitHub.
+
 Samuel Restrepo Aguilar, 18 años. En este curso aspiro a mejorar mis habilidades en el paradigma POO y en la programación en general. Así mismo, espero fortalecer mis conocimientos en la parte teórica de la computación.
+
+A la hora de editar un archivo y de subirlo a un repositorio, es importante evitar que otras personas intervengan en ese mismo archivo porque, si distintas personas lo editan al mismo tiempo, a la hora de hacer el push al repositorio central se creará un conflicto de fusión con dicho archivo.
+
